@@ -17,3 +17,4 @@
 
 ## 🖥️ UI Preview 4
 <img src="https://github.com/user-attachments/assets/a87e573b-eea9-496b-ae2a-ed697d24e1a8" width="100%"/>
+<img width="1470" height="956" alt="Screenshot 2026-05-12 at 11 18 19 PM" src="https://github.com/user-attachments/assets/754a2556-e470-4bdd-ba36-8b61a28d91a1" />
